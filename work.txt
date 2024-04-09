@@ -1,0 +1,6 @@
+github
+git
+
+create a repo
+stage ready
+push to git
